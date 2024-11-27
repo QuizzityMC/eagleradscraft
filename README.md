@@ -5,8 +5,9 @@ Original Project: Lax1Dude
 <br>
 Original Server Fork: EcoliEater87
 <br>
+Forked from: QuizzityMC
 ## Setup Guide
-Welcome to the EaglercraftX server project! Here is how you can setup your very own eaglercraft server:
+Welcome to the EaglercraftX server project! Here is how you can setup your very own Eaglercraft server:
 <br>
 <br>
 First, go to the top of the repo and click on code > codespaces > create codespace
@@ -24,5 +25,6 @@ second tab: `cd bungee && sudo java -jar bungee.jar`
 <br>
 <br>
 Now go to the ports area and forward (and make public) ports `25565` and `8081`
+Now enter the IP and port of the ADSCraft Server
 <br>
-Your eaglercraft server is setup!
+Your Eaglercraft server is set up!
