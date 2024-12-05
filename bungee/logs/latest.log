@@ -1,121 +1,44 @@
-[16:50:39] [main/INFO]: Using mbed TLS based native cipher.
-[16:50:39] [main/INFO]: Using zlib based native compressor.
-[16:50:39] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
-[16:50:39] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
-[16:50:39] [main/INFO]: Epoll is working, utilising it!
-[16:50:40] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
-[16:50:40] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
-[16:50:40] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
-[16:50:40] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
-[16:50:40] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
-[16:50:40] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
-[16:50:40] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
-[16:50:40] [main/INFO]: Attempting to Jenkins download module cmd_alert v513
-[16:50:40] [main/INFO]: Download complete
-[16:50:40] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
-[16:50:40] [main/INFO]: Attempting to Jenkins download module cmd_find v513
-[16:50:40] [main/INFO]: Download complete
-[16:50:40] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
-[16:50:40] [main/INFO]: Attempting to Jenkins download module cmd_list v513
-[16:50:40] [main/INFO]: Download complete
-[16:50:40] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
-[16:50:40] [main/INFO]: Attempting to Jenkins download module cmd_send v513
-[16:50:40] [main/INFO]: Download complete
-[16:50:40] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
-[16:50:40] [main/INFO]: Attempting to Jenkins download module cmd_server v513
-[16:50:40] [main/INFO]: Download complete
-[16:50:40] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
-[16:50:40] [main/INFO]: Attempting to Jenkins download module reconnect_yaml v513
-[16:50:40] [main/INFO]: Download complete
-[16:50:40] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:40] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:40] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:40] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:40] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:40] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:40] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[16:50:40] [main/WARN]: :>  
-[16:50:40] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
-[16:50:40] [main/WARN]: :>  
-[16:50:40] [main/WARN]: :>  This plugin wasn't tested to be 'working'
-[16:50:40] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
-[16:50:40] [main/WARN]: :>  apart from the versions listed below:
-[16:50:40] [main/WARN]: :>  
-[16:50:40] [main/WARN]: :>  - BungeeCord: 1.20-R0.2-SNAPSHOT:231024b:1777
-[16:50:40] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:d85fe36:556
-[16:50:40] [main/WARN]: :>  - FlameCord: 1.1.1
-[16:50:40] [main/WARN]: :>  
-[16:50:40] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
-[16:50:40] [main/WARN]: :>  
-[16:50:40] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
-[16:50:40] [main/WARN]: :>  
-[16:50:40] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[16:50:40] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
-[16:50:41] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
-[16:50:41] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.9 by lax1dude
-[16:50:41] [main/WARN]: Forced host server pvp is not defined
-[16:50:41] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:41] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:41] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:41] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:41] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:41] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:50:41] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
-[16:50:41] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
-[16:50:41] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[16:50:41] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
-[16:50:41] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
-[16:53:25] [Netty Worker IO Thread #2/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/EaglercraftX-Server/bungee/server-icon.png
-[16:59:47] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52014]: Connected via websocket
-[16:59:47] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52014]: Origin header is null
-[16:59:47] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52014]: Logged in as 'Neonic'
-[16:59:47] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52014|Neonic] -> UpstreamBridge has connected
-[16:59:47] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for Neonic AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
-[16:59:47] [Netty Worker IO Thread #2/INFO]: [Neonic] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
-[16:59:47] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52014|Neonic] -> UpstreamBridge has disconnected
-[17:01:11] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35374]: Connected via websocket
-[17:01:11] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35374]: Origin header is null
-[17:01:12] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35374]: Logged in as 'Neonic'
-[17:01:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35374|Neonic] -> UpstreamBridge has connected
-[17:01:12] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for Neonic AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
-[17:01:12] [Netty Worker IO Thread #0/INFO]: [Neonic] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
-[17:01:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35374|Neonic] -> UpstreamBridge has disconnected
-[17:03:07] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44472]: Connected via websocket
-[17:03:07] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44472]: Origin header is null
-[17:03:07] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44472]: Logged in as 'Neonic'
-[17:03:07] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44472|Neonic] -> UpstreamBridge has connected
-[17:03:07] [Netty Worker IO Thread #2/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:44472] <-> ServerConnector [lobby] has connected
-[17:10:50] [Netty Worker IO Thread #2/INFO]: [Neonic] disconnected with: Server closed
-[17:10:50] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44472|Neonic] -> UpstreamBridge has disconnected
-[17:10:50] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44472|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
-[17:10:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45630]: Connected via websocket
-[17:10:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45630]: Origin header is null
-[17:10:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45630]: Logged in as 'Neonic'
-[17:10:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:45630|Neonic] -> UpstreamBridge has connected
-[17:10:58] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for Neonic AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
-[17:10:58] [Netty Worker IO Thread #0/INFO]: [Neonic] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
-[17:10:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:45630|Neonic] -> UpstreamBridge has disconnected
-[17:18:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47432]: Connected via websocket
-[17:18:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47432]: Origin header is null
-[17:18:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47432]: Logged in as 'Neonic'
-[17:18:03] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47432|Neonic] -> UpstreamBridge has connected
-[17:18:03] [Netty Worker IO Thread #2/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:47432] <-> ServerConnector [lobby] has connected
-[17:19:23] [Netty Worker IO Thread #2/INFO]: [Neonic] disconnected with: Server closed
-[17:19:23] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47432|Neonic] -> UpstreamBridge has disconnected
-[17:19:23] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47432|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
-[17:34:31] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41684]: Connected via websocket
-[17:34:31] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41684]: Origin header is null
-[17:34:31] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41684]: Logged in as 'Neonic'
-[17:34:31] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:41684|Neonic] -> UpstreamBridge has connected
-[17:34:31] [Netty Worker IO Thread #2/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:41684] <-> ServerConnector [lobby] has connected
-[17:35:15] [Netty Worker IO Thread #2/INFO]: [Neonic] disconnected with: Server closed
-[17:35:15] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:41684|Neonic] -> UpstreamBridge has disconnected
-[17:35:15] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:41684|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
-[17:35:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41716]: Connected via websocket
-[17:35:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41716]: Origin header is null
-[17:35:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41716]: Logged in as 'Neonic'
-[17:35:26] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41716|Neonic] -> UpstreamBridge has connected
-[17:35:26] [Netty Worker IO Thread #1/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:41716] <-> ServerConnector [lobby] has connected
-[17:43:23] [Netty Worker IO Thread #1/INFO]: [Neonic] disconnected with: Server closed
-[17:43:23] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41716|Neonic] -> UpstreamBridge has disconnected
-[17:43:23] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41716|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
+[01:27:21] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-965db127-b454)...
+[01:27:21] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[01:27:22] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 1.1.x (Linux x86_64) ciphers
+[01:27:22] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
+[01:27:22] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.4.0-SNAPSHOT:a33f2d1a:b452
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:27:23] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[01:27:23] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.1.5 by lax1dude, ayunami2000
+[01:27:23] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 2 plugins
+[01:27:23] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
+[01:27:23] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
+[01:27:23] [Netty epoll Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
+[01:27:23] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Downloading from maven: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.45.0.0/sqlite-jdbc-3.45.0.0.jar
+[01:27:26] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[01:27:26] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_auths.db
+[01:27:26] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
+[01:27:26] [Netty epoll Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
+[01:27:26] [main/INFO] [com.velocitypowered.proxy.Metrics]: Velocity and some of its plugins collect metrics and send them to bStats (https://bStats.org).
+[01:27:26] [main/INFO] [com.velocitypowered.proxy.Metrics]: bStats collects some basic information for plugin authors, like how many people use
+[01:27:26] [main/INFO] [com.velocitypowered.proxy.Metrics]: their plugin and their total player count. It's recommended to keep bStats enabled, but
+[01:27:26] [main/INFO] [com.velocitypowered.proxy.Metrics]: if you're not comfortable with this, you can opt-out by editing the config.txt file in
+[01:27:26] [main/INFO] [com.velocitypowered.proxy.Metrics]: the '/plugins/bStats/' folder and setting enabled to false.
+[01:27:26] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (5.75s)!
+[01:27:28] [EaglerXVelocity: Update Service Tasks/INFO] [eaglerxvelocity]: Downloading new certificate: https://eaglercraft.com/backup.cert
+[01:27:28] [EaglerXVelocity: Update Service Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/eagler-testing/bungee/plugins/eaglerxvelocity/eagcert/$dl.186aa9ff417e7d87ce302c786310f2958071fc2b.cert
+[01:30:41] [EaglerXVelocity: Update Service Tasks/WARN] [eaglerxvelocity]: Certificate was deleted: $dl.186aa9ff417e7d87ce302c786310f2958071fc2b.cert
+[01:30:56] [Thread-7/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
+[01:30:56] [Thread-7/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25565
+[01:30:56] [EaglercraftXVelocity - Task Executor #1/INFO] [eaglerxvelocity]: Eaglercraft listener closed: /0.0.0.0:8081
+[01:30:56] [EaglercraftXVelocity - Task Executor #1/INFO] [eaglerxvelocity]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[01:30:56] [EaglercraftXVelocity - Task Executor #1/INFO] [eaglerxvelocity]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_auths.db'
