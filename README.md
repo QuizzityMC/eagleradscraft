@@ -7,13 +7,15 @@ Original Server Fork: EcoliEater87
 <br> 
 Adapted to Canary Craft (ADSCRAFT): QuizzityMC
 <br>
-## Setup Guide
+# This repo is designed purely for Canary Craft and has been optimised for such.
+
+## If you still want to use it yourself, follow below:
 Welcome to the EaglercraftX server project! Here is how you can setup your very own eaglercraft server:
 <br>
 <br>
 First, go to the top of the repo and click on code > codespaces > create codespace
 <br>
-now you have your own free server instance to host eaglercraft. Next you need to run the setup commands:
+now you have your own free server instance to host eaglercraft. You now need to adjust the velocity config to point to your server. Next you need to run the setup commands:
 <br>
 <br>
 create 2 terminal tabs and paste in the following snipits:
