@@ -18,15 +18,11 @@ First, go to the top of the repo and click on code > codespaces > create codespa
 now you have your own free server instance to host eaglercraft. You now need to adjust the velocity config to point to your server. Next you need to run the setup commands:
 <br>
 <br>
-create 2 terminal tabs and paste in the following snipits:
-<br>
-<br>
-first tab: `cd server && sudo java -jar server.jar`
-<br>
+Create a terminal tab and paste the following:<br>
 <br>
 second tab: `cd bungee && sudo java -jar bungee.jar`
 <br>
 <br>
-Now go to the ports area and forward (and make public) ports `25565` and `8081`
+Now go to the ports area and forward (and make public) ports `8081`
 <br>
 Your eaglercraft server is setup!
