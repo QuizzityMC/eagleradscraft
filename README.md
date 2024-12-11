@@ -20,7 +20,7 @@ now you have your own free server instance to host eaglercraft. You now need to 
 <br>
 Create a terminal tab and paste the following:<br>
 <br>
-second tab: `cd bungee && sudo java -jar bungee.jar`
+enter the following: `cd bungee && sudo java -jar bungee.jar`
 <br>
 <br>
 Now go to the ports area and forward (and make public) ports `8081`
