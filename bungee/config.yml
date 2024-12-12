@@ -50,5 +50,5 @@ servers:
     restricted: false
   Civilisations:
     motd: '&1Just another Waterfall - Forced Host'
-    address: 95.216.241.221:50582
+    address: 95.217.198.48:20923 
     restricted: false
