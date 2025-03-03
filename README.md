@@ -3,6 +3,8 @@
 ## Credits
 Original Project: Lax1Dude
 <br>
+1.12 Project: PeytonPlayz595
+<br>
 Original Server Fork: EcoliEater87
 <br> 
 Adapted to Canary Craft (ADSCRAFT): QuizzityMC
